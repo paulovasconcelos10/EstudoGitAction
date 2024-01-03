@@ -3,14 +3,17 @@ name: Meu Primeiro workflow no gitHub Actions
 on:
   push:
     branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-  workflow_dispatch:
 
 jobs:
-  build:
+  test_job:
+    name: Executando o Job de Teste
     runs-on: ubuntu-latest    
     steps:
+      - name: Sep 1 
       - uses: actions/checkout@v3
-      - name: Run a one-line script
+      
+      - name: Sep 2
         run: echo Olá, mundo!
+
+      - name: Sep 3
+        run: echo Olá, executando step 3!
