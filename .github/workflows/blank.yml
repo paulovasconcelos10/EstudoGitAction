@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest    
     steps:
       - name: Sep 1 
-      - uses: actions/checkout@v3
+        uses: actions/checkout@v2
       
       - name: Sep 2
         run: echo Olá, mundo!
