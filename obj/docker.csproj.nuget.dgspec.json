@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\docker\\docker.csproj": {}
+    "D:\\Code\\EstudoGitAction\\docker.csproj": {}
   },
   "projects": {
-    "D:\\Code\\docker\\docker.csproj": {
+    "D:\\Code\\EstudoGitAction\\docker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\docker\\docker.csproj",
+        "projectUniqueName": "D:\\Code\\EstudoGitAction\\docker.csproj",
         "projectName": "docker",
-        "projectPath": "D:\\Code\\docker\\docker.csproj",
+        "projectPath": "D:\\Code\\EstudoGitAction\\docker.csproj",
         "packagesPath": "C:\\Users\\pauli\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\docker\\obj\\",
+        "outputPath": "D:\\Code\\EstudoGitAction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pauli\\AppData\\Roaming\\NuGet\\NuGet.Config",

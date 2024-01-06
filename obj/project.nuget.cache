@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q+55ijo+1mUjGUQXdPuQJkF9C9sma+fYudJHl+Rz382fp2X6mrWp7pKFa5Ene65zqfzy+//fBh4L50HzIRDi5A==",
+  "dgSpecHash": "is4455PQAXpkl6glAgvUvRBEdypP7P9R9nVgFLR/zyj6u9tLnJK/R7xjFXo6QkOjjltvMs3Q2qvR1rZmodr1vg==",
   "success": true,
-  "projectFilePath": "D:\\Code\\docker\\docker.csproj",
+  "projectFilePath": "D:\\Code\\EstudoGitAction\\docker.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
