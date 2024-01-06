@@ -22,5 +22,5 @@ jobs:
         uses: docker/build-push-action@v5.1.0
         with:
           context: .
-          tags: 'latest'
+          tags: 'paulovasconcelos88/fiap-estudogithubaction:latest'
           push: true
