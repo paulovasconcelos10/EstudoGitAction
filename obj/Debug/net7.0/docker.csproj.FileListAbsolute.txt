@@ -1,0 +1,14 @@
+D:\Code\docker\bin\Debug\net7.0\docker.exe
+D:\Code\docker\bin\Debug\net7.0\docker.deps.json
+D:\Code\docker\bin\Debug\net7.0\docker.runtimeconfig.json
+D:\Code\docker\bin\Debug\net7.0\docker.dll
+D:\Code\docker\bin\Debug\net7.0\docker.pdb
+D:\Code\docker\obj\Debug\net7.0\docker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\docker\obj\Debug\net7.0\docker.AssemblyInfoInputs.cache
+D:\Code\docker\obj\Debug\net7.0\docker.AssemblyInfo.cs
+D:\Code\docker\obj\Debug\net7.0\docker.csproj.CoreCompileInputs.cache
+D:\Code\docker\obj\Debug\net7.0\docker.dll
+D:\Code\docker\obj\Debug\net7.0\refint\docker.dll
+D:\Code\docker\obj\Debug\net7.0\docker.pdb
+D:\Code\docker\obj\Debug\net7.0\docker.genruntimeconfig.cache
+D:\Code\docker\obj\Debug\net7.0\ref\docker.dll
