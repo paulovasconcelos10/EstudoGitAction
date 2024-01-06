@@ -12,8 +12,8 @@ jobs:
       - name: Sep 1  
       - uses: actions/checkout@v3
       
-      - name: Sep 2
-        run: echo Olá, mundo!
-
-      - name: Sep 3
-        run: echo Olá, executando step 3!
+      - name: Docker Login
+        uses: docker/login-action@v3.0.0
+        with:
+          username: 'paulovasconcelos88'
+          password: ${{ secrets.DOCKERHUB_PASSWORD }}
