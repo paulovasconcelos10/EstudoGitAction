@@ -8,7 +8,10 @@ jobs:
   test_job:
     name: Executando o Job de Teste
     runs-on: self-hosted    
-    steps:      
+    steps:
+      - name: Sep 1  
+      - uses: actions/checkout@v3
+      
       - name: Sep 2
         run: echo Olá, mundo!
 
