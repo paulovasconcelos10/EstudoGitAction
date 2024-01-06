@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-hosted    
     steps:
       - name: Sep 1  
-      - uses: actions/checkout@v3
+        uses: actions/checkout@v3
       
       - name: Docker Login
         uses: docker/login-action@v3.0.0
